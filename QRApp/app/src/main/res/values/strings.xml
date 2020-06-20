@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">QRScanner</string>
+    <string name="app_chooser">Open This Link With</string>
+</resources>
